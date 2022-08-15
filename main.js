@@ -114,3 +114,4 @@ switch (operacion) {
 resetear();
 resultado.textContent= result;
 }
+
